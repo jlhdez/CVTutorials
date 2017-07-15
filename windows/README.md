@@ -9,10 +9,10 @@ This file is used to keep the record of any setup, solutions to errors, and any 
 These records will only relate to Windows 10.
 
 # List of projects
-1. [Mat - The Basic Image Container]()
+1. [Mat - The Basic Image Container](https://github.com/jlhdez/CVTutorials/tree/project_start/windows/projects/BasicImageContainer)
 
-# Windows setup for OpenCV
-
+# Windows setup
+## OpenCV Setup
 1. Download MS Visual Studio
  + Check if a sample program can be compiled and run. e.g.
 
@@ -74,6 +74,9 @@ int main() {
 	return 0;
 }
 ```
+
+## Setting up command line arguments in Visual Studio
+`TODO`
 
  _*As of July 2017_
 ## Setup References
