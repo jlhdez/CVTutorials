@@ -2,12 +2,14 @@
 1. [Abstract](#abstract)
 1. [List of projects](#list-of-projects)
 1. [Windows setup for OpenCV](#windows-setup-for-opencv)
+1. [Encountered Errors](#encountered-errors)
 
 # Abstract
 This file is used to keep the record of any setup, solutions to errors, and any other information that might relate to anything on this project.
 These records will only relate to Windows 10.
 
 # List of projects
+1. [Mat - The Basic Image Container]()
 
 # Windows setup for OpenCV
 
@@ -88,3 +90,5 @@ _Most of these Links I looked at while trying to setup OpenCV in Windows 10, the
 1. https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058
 1. https://cmake.org/documentation/
 1.	http://derekmolloy.ie/hello-world-introductions-to-cmake/
+
+# Encountered Errors
