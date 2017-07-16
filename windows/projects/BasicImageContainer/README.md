@@ -9,14 +9,14 @@
 1. Mat F and G now have a copy of the data of A. Modifying Mat F and G will not affect Mat A
 
 ```
-Mat A, C;									              // 1
+Mat A, C;									                   // 1
 A = imread(argv[1], IMREAD_COLOR);			// 2
 
-Mat B(A); C = A;							         // 3
-                                       // 4
-Mat D (A, Rect(10, 10, 100, 100) );		 // ROI using a rectangle
-Mat E = A(Range::all(), Range(1,3));	 // ROI using row and column boundaries
+Mat B(A); C = A;							              // 3
+                                     // 4
+Mat D (A, Rect(10, 10, 100, 100) );		// ROI using a rectangle
+Mat E = A(Range::all(), Range(1,3));	// ROI using row and column boundaries
 
-Mat F = A.clone();							       // 5
+Mat F = A.clone();							            // 5
 Mat G;  A.copyTo(G);
 ```
