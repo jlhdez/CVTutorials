@@ -38,6 +38,6 @@ int main(int argc, char ** argv)
 	imshow("Gray image", gray_image);
 	// Wait for user key press
 	waitKey(0);
-	
+
 	return 0;
 }
