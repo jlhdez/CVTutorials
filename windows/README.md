@@ -10,6 +10,8 @@ These records will only relate to Windows 10.
 
 # List of projects
 1. [Mat - The Basic Image Container](https://github.com/jlhdez/CVTutorials/tree/project_start/windows/projects/BasicImageContainer)
+## Extras
+1. [Template Specialization](https://github.com/jlhdez/CVTutorials/tree/project_start/windows/projects/TemplateSpecialization)
 
 # Windows setup
 ## OpenCV Setup
